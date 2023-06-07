@@ -31,8 +31,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: Aldrin Lijo J E
-RegisterNumber: 212222240007 
+Developed by: S VAISHNAV NANDA
+RegisterNumber: 2122222400112 
 */
 ```
 ```
